@@ -1,0 +1,14 @@
+.Information {
+  display: inline-block;
+  width: 50%;
+  padding: 3px;
+  border: 2px solid rgb(18, 47, 54);
+  border-radius: 10px;   
+}
+
+.Heading {
+  font-family: 'Times New Roman', Times, serif;
+  font-style: oblique;
+  font-size: x-large;
+  text-align: center;
+}
